@@ -4,7 +4,7 @@ Partie 1
 vagrant@ubuntu:~$ cat /etc/hosts
 127.0.0.1 localhost
 
-# The following lines are desirable for IPv6 capable hosts
+The following lines are desirable for IPv6 capable hosts
 ::1 ip6-localhost ip6-loopback
 fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
@@ -20,3 +20,4 @@ Thu Feb 12 15:05:13 UTC 2026
 Partie 2
 
 Mon ordinateur est au bord du précipice. Je fini le tp ce soir, sur mon windows. 
+
