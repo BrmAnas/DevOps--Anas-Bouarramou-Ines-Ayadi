@@ -1,3 +1,4 @@
+Je suis completement desole pour le retard de l'envoie !
 Partie 1
 
 2. Create a virtual machine
@@ -73,3 +74,4 @@ TASK [gitlab/healthchecks : Bonus - Custom message for dysfunctional services] \
 ok: [gitlab_server] => {
 "msg": "Services en panne : ['redis_check']"
 }
+
